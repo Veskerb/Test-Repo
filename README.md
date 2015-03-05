@@ -6,8 +6,9 @@
 
 ##Paragraph
 
-*list elem
-*list elem2
-* what does that do ?
+List:
+* list elem
+* list elem2
+** what does that do ?
 
 ### end
